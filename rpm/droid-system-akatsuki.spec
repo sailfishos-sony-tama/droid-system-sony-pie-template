@@ -1,5 +1,5 @@
 %define multiple_rpms 1
-%define rpm_device mermaid
+%define rpm_device akatsuki
 
 %define dsd_path ./
 

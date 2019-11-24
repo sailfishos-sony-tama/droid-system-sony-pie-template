@@ -5,8 +5,8 @@
 %define __requires_exclude ^.*$
 %global debug_package %{nil}
 
-%define habuild_device mermaid
-%define device i4213
+%define habuild_device akatsuki
+%define device h8416
 
 Name:          droid-system-%{habuild_device}-%{device}
 Summary:       Built from source /system for Droid HAL adaptations

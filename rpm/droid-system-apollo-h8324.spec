@@ -5,8 +5,8 @@
 %define __requires_exclude ^.*$
 %global debug_package %{nil}
 
-%define habuild_device kirin
-%define device i3113
+%define habuild_device apollo
+%define device h8324
 
 Name:          droid-system-%{habuild_device}-%{device}
 Summary:       Built from source /system for Droid HAL adaptations
